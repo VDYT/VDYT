@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @VDYT
+- 👀 I’m interested in web dev
+- 🌱 I’m currently learning HTML, CSS, JavaScript
